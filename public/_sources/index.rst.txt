@@ -16,6 +16,7 @@ documentation for details.
    :caption: Contents:
 
    api
+   mon_api
 
 .. include:: ../../README.md
    :parser: myst_parser.sphinx_
