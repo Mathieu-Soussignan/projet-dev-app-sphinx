@@ -1,0 +1,10 @@
+__pycache__/
+*.py[co]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+.egg-info/
